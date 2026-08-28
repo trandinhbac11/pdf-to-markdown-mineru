@@ -1,0 +1,21 @@
+# Khóa API
+.env
+
+# Môi trường Python
+.venv/
+
+# File tạm Python
+__pycache__/
+*.py[cod]
+
+# Cấu hình máy cá nhân
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Dữ liệu và kết quả không đăng lên GitHub
+data/00_input/pdf/
+data/01_markdown/
+data/02_extracted_json/
+data/03_provenance/
+data/04_canonical/

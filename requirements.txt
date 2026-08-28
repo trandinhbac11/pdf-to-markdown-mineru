@@ -1,0 +1,11 @@
+mineru-open-sdk
+python-dotenv
+google-genai
+jsonschema
+httpx
+
+#mineru-open-sdk: chuyển PDF sang Markdown.
+#python-dotenv: đọc API key từ .env.
+#google-genai: gọi Gemini để trích xuất Markdown thành JSON.
+#jsonschema: kiểm tra JSON theo schema.
+#httpx: hỗ trợ kết nối HTTP và xử lý lỗi mạng.
